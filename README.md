@@ -22,12 +22,15 @@ Welcome to my GitHub profile! I’m passionate about tech and always exploring n
 ## 📫 Reach Me
 Feel free to connect with me through any of the platforms below:
 
-- 💼 [Fiverr](https://fiverr.com/shafiulazamcse)
-- 📘 [Facebook](https://facebook.com/shafiulazamcse)
-- 📸 [Instagram](https://instagram.com/shafiulazamcse)
-- 💼 [LinkedIn](https://linkedin.com/in/shafiulazamcse)
-- 🐦 [X (Twitter)](https://x.com/shafiulazamcse)
-- 🧵 [Threads](https://threads.net/@shafiulazamcse)
+- 🛠️ **[Fiverr](https://fiverr.com/shafiulazamcse)**
+- 👤 **[Facebook](https://facebook.com/shafiulazamcse)**
+- 📷 **[Instagram](https://instagram.com/shafiulazamcse)**
+- 💼 **[LinkedIn](https://linkedin.com/in/shafiulazamcse)**
+- 🐦 **[X (formerly Twitter)](https://x.com/shafiulazamcse)**
+- 🧵 **[Threads](https://threads.net/@shafiulazamcse)**
+- 📌 **[Pinterest](https://www.pinterest.com/shafiulazamcse/)**
+- 💬 **[WhatsApp](https://wa.me/8801518431620)** (+8801518431620)
+
 
 ## 😄 Pronouns
 He/Him
