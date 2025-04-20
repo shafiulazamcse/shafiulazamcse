@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shafiul Azam 📌 **[Md Shafiul Azam](https://shafiulazamcse.fabconstechno.com/)**
+# 👋 Hi, I’m  **[Md Shafiul Azam](https://shafiulazamcse.fabconstechno.com/)**
 
 Welcome to my GitHub profile! I’m passionate about tech and always exploring new opportunities to learn, build, and collaborate.
 
