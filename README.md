@@ -29,7 +29,7 @@ Feel free to connect with me through any of the platforms below:
 - 🐦 **[X (formerly Twitter)](https://x.com/shafiulazamcse)**
 - 🧵 **[Threads](https://threads.net/@shafiulazamcse)**
 - 📌 **[Pinterest](https://www.pinterest.com/shafiulazamcse/)**
-- 
+- ▶️ **[YouTube](https://www.youtube.com/@shafiulazamcse)**
 - 💬 **[WhatsApp](https://wa.me/8801518431620)** (+8801518431620)
 
 
