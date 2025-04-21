@@ -3,11 +3,15 @@
 Welcome to my GitHub profile! I’m passionate about tech and always exploring new opportunities to learn, build, and collaborate.
 
 ## 👀 Interests
+- Full-stack web development & website creation
+- Fixing website issues, bugs, and errors
+- Website optimization & performance tuning
+- Domain, DNS, and hosting management
 - Email systems & domain authentication (SPF, DKIM, DMARC)
-- DNS management & web hosting
 - Cloud-based business email (Google Workspace, Office 365, Zoho, and more)
-- Automation & DevOps
-- Web technologies and backend systems
+- Automation, DevOps & server management
+- Web technologies, backend systems & APIs
+
 
 ## 🌱 Currently Learning
 - Advanced cloud infrastructure (AWS, Azure)
