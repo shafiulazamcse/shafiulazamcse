@@ -41,8 +41,7 @@ Feel free to connect with me through any of the platforms below:
 He/Him
 
 ## ⚡ Fun Fact
-I’ve migrated thousands of business emails across multiple platforms and love making sure every message hits the inbox—not the spam folder!
-
+As a web developer, I’ve helped businesses migrate their websites and emails across platforms—ensuring smooth transitions and making sure every message lands in the inbox, not the spam folder!
 ---
 
 > 🔧 This `README.md` is part of a ✨ special ✨ GitHub profile repo. Click **Preview** to see how it looks live!
